@@ -898,7 +898,7 @@ select.form-control {
 
 /* Inline form control for rates */
 .form-control--inline {
-  width: 7ch; /* Примерно 5 символов шириной */
+  width: 9ch; /* Увеличено для размещения больших значений */
   padding: var(--space-2) var(--space-6);
   border-radius: var(--radius-sm);
   border: 1px solid var(--color-border);
